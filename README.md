@@ -1,4 +1,4 @@
-# aws-falcon-data-forwarder
+# Crowdstrike Falcon to AWS S3 Forwarder
 
 ## What is this
 
